@@ -1,6 +1,6 @@
 
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=L-LIFE&fontColor=FFFFFF&fontAlign=26&fontAlignY=35&desc=코드를%20즐기는%20개발자&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/L-LIFE)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=164EAB&height=225&section=header&text=L-LIFE&fontColor=FFFFFF&fontAlign=26&fontAlignY=35&desc=코드를%20즐기는%20개발자&descSize=20&descAlign=18&descAlignY=58&animation=twinkling)](https://github.com/ykyung522)
 
 
   
